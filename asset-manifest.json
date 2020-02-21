@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/monster-roblox/static/css/main.d1b05096.chunk.css",
+    "main.js": "/monster-roblox/static/js/main.73585ed3.chunk.js",
+    "main.js.map": "/monster-roblox/static/js/main.73585ed3.chunk.js.map",
+    "runtime-main.js": "/monster-roblox/static/js/runtime-main.515b882d.js",
+    "runtime-main.js.map": "/monster-roblox/static/js/runtime-main.515b882d.js.map",
+    "static/js/2.62dce5ae.chunk.js": "/monster-roblox/static/js/2.62dce5ae.chunk.js",
+    "static/js/2.62dce5ae.chunk.js.map": "/monster-roblox/static/js/2.62dce5ae.chunk.js.map",
+    "index.html": "/monster-roblox/index.html",
+    "precache-manifest.bf6f5d780e3eefd12130266f0485e726.js": "/monster-roblox/precache-manifest.bf6f5d780e3eefd12130266f0485e726.js",
+    "service-worker.js": "/monster-roblox/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/monster-roblox/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.62dce5ae.chunk.js.LICENSE.txt": "/monster-roblox/static/js/2.62dce5ae.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/monster-roblox/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.515b882d.js",
+    "static/js/2.62dce5ae.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.73585ed3.chunk.js"
+  ]
+}
